@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="sklearn.preprocessing.StandardScale" />
+          <option value="pointer_networks_master.run.PointerLSTM" />
+          <option value="keras.initializations" />
+          <option value="keras.layers.recurrent.time_distributed_dense" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
